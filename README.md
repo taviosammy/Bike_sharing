@@ -48,3 +48,5 @@ Other vizualizations that may aid in decisions are a map that highlights popular
 Also a chart that looked into if there are certain locations that are prefered by men or women could give insight in choosing future parking sites.
 
 
+[link to dashboard][https://public.tableau.com/views/Tableauchallenge_16589795063910/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+
